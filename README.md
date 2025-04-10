@@ -1,6 +1,5 @@
 # Test project based on Yii2 Basic with docker
 
-This project is a test project from Valeriia with love
 ---
 
 ##  Features
